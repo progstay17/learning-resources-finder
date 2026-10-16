@@ -10,6 +10,12 @@ Skill untuk menyusun learning path empat tahap dari sumber yang bisa diverifikas
 
 > **Ghifarion** · Engineering Intelligence. Building Legacy.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
+  <img src="https://img.shields.io/badge/Category-Learning%20Path-blue" alt="Category: Learning Path">
+  <img src="https://img.shields.io/badge/License-MIT-orange" alt="License: MIT">
+</p>
+
 ## On this page
 
 - [Fitur utama](#-fitur-utama)

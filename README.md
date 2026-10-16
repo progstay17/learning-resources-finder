@@ -10,6 +10,8 @@ Skill untuk menyusun learning path empat tahap dari sumber yang bisa diverifikas
 
 > **Ghifarion** · Engineering Intelligence. Building Legacy.
 
+> **Learning Resource Finder** adalah skill agent terstruktur yang dirancang untuk menggali dan menyusun daftar sumber belajar (*YouTube*, *PDF*, *Artikel*) untuk topik apa pun — mulai dari jenjang karir, bidang ilmu, hingga buku tertentu — dalam bentuk **Learning Path 4 Tahap** dari nol hingga mahir.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
   <img src="https://img.shields.io/badge/Category-Learning%20Path-blue" alt="Category: Learning Path">

@@ -1,12 +1,29 @@
-# 🎯 Learning Resource Finder
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/Category-Learning%20Path-blue" alt="Category" />
-  <img src="https://img.shields.io/badge/License-MIT-orange" alt="License" />
-</p>
+<img src="assets/ghifarion/repo-banner.svg" alt="LEARNING RESOURCE FINDER — Turn curiosity into a structured path from foundation to mastery." width="100%">
+
+</div>
+
+# Learning Resource Finder
+
+Skill untuk menyusun learning path empat tahap dari sumber yang bisa diverifikasi: YouTube, PDF, artikel, dan dokumentasi resmi.
+
+> **Ghifarion** · Engineering Intelligence. Building Legacy.
 
 > **Learning Resource Finder** adalah skill agent terstruktur yang dirancang untuk menggali dan menyusun daftar sumber belajar (*YouTube*, *PDF*, *Artikel*) untuk topik apa pun — mulai dari jenjang karir, bidang ilmu, hingga buku tertentu — dalam bentuk **Learning Path 4 Tahap** dari nol hingga mahir.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
+  <img src="https://img.shields.io/badge/Category-Learning%20Path-blue" alt="Category: Learning Path">
+  <img src="https://img.shields.io/badge/License-MIT-orange" alt="License: MIT">
+</p>
+
+## On this page
+
+- [Fitur utama](#-fitur-utama)
+- [Struktur repositori](#-struktur-repositori)
+- [Cara penggunaan](#-cara-penggunaan)
+- [Contoh output](#-contoh-output-learning-path)
 
 ---
 

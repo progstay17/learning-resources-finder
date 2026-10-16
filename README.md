@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="assets/ghifarion/repo-banner.svg" alt="LEARNING RESOURCE FINDER — Turn curiosity into a structured path from foundation to mastery." width="100%">
+
+</div>
+
 # 🎯 Learning Resource Finder
 
 <p align="center">

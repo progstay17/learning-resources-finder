@@ -4,15 +4,18 @@
 
 </div>
 
-# 🎯 Learning Resource Finder
+# Learning Resource Finder
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/Category-Learning%20Path-blue" alt="Category" />
-  <img src="https://img.shields.io/badge/License-MIT-orange" alt="License" />
-</p>
+Skill untuk menyusun learning path empat tahap dari sumber yang bisa diverifikasi: YouTube, PDF, artikel, dan dokumentasi resmi.
 
-> **Learning Resource Finder** adalah skill agent terstruktur yang dirancang untuk menggali dan menyusun daftar sumber belajar (*YouTube*, *PDF*, *Artikel*) untuk topik apa pun — mulai dari jenjang karir, bidang ilmu, hingga buku tertentu — dalam bentuk **Learning Path 4 Tahap** dari nol hingga mahir.
+> **Ghifarion** · Engineering Intelligence. Building Legacy.
+
+## On this page
+
+- [Fitur utama](#-fitur-utama)
+- [Struktur repositori](#-struktur-repositori)
+- [Cara penggunaan](#-cara-penggunaan)
+- [Contoh output](#-contoh-output-learning-path)
 
 ---
 
